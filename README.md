@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![xiangsanliu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiangsanliu&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangsanliu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangsanliu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
